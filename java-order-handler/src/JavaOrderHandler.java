@@ -61,7 +61,7 @@ public class JavaOrderHandler {
 
         // constants
         final String NEW_LINE = "\n";
-        
+
         // number of bags the boxes can carry
         final int SMALL_BOX_SIZE = 5;
         final int MEDIUM_BOX_SIZE = 10;
